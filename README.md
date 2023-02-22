@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
-<h3 align="center">Ankit Seth Kolkata, India seth.ankit@outlook.com 8420572468 ankitseth.netlify.app Audacity21 SKILLS Cloud DevOps Coding CyberSecurity Full Stack Development INTERESTS Photography Instagram: _audacity21 Blogging Hashnode: ankitseth PROGRAMMING LANGUAGES C Java Python JavaScript AWARDS Code For Good 2022 Winner Reimagine Future Hackathon Finalists Inter- School Coding Contest State Level Abacus CERTIFICATIONS AWS Cloud Practition er Operatin g Systems Superuse r Aspiring Engineer looking to make the world a better place. Love solving problems and creating new applications.</h3>
+<h3 align="center">An Aspiring Engineer looking to make the world a better place. Love solving problems and creating new applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2000030639&label=Profile%20views&color=0e75b6&style=flat" alt="2000030639" /> </p>
 
