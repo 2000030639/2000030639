@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2000030639&label=Profile%20views&color=0e75b6&style=flat" alt="2000030639" /> </p>
 
-- 📝 I regularly write articles on https://www.blogger.com/u/3/blog/posts/3524148409294296137
+- 📝 I regularly write articles on https://cloudblogsbysameer.blogspot.com/
 
 - 📫 How to reach me **2000030639@kluniversity.in**
 
